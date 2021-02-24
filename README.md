@@ -5,7 +5,8 @@
 <h4>React App develop integrated with Github API.</h4>
 <p>Search by <code>organization/repository</code> and add to your list. Click at button <code>Details</code> to see more information about repository include <code>issues</code> filtered by <code>All</code><code>Open</code><code>Closed</code></p>
 
-<p>🖥️ Demo: <a href="https://searchrepos.herokuapp.com/" target="_blank">Click here</a></p>
+<p>🖥️ <b>Demo:</b> <a href="https://searchrepos.herokuapp.com/" target="_blank">Click here</a></p>
+<p>🖥️ <b>Layouts (Figma):</b> <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate" target="_blank">Click here</a></p>
 
 ## 🎬 Preview
 <!--<img src="https://devleo.com.br/assets/images/mockups/mockup-web-searchrepo.png" width="400px" height="auto">-->
