@@ -15,9 +15,9 @@ To install and run the application:
 
 * Clone repository and install dependencies: 
 ```
-  git clone https://github.com/leo-pro/search-github-repositories/
-  cd search-github-repositories
-  yarn
+  git clone https://github.com/leo-pro/moveit-nextjs-nlw4/
+  cd moveit-nextjs-nlw4
+  yarn or npm install
 ```
 * Running the project into your browser at http://localhost:3000
 ```
