@@ -2,8 +2,6 @@
 <h2 align="center">
 <img src="https://raw.githubusercontent.com/leo-pro/moveit-nextjs-nlw4/main/public/favicon.png" width="20px"> Move.it
 </h2>
-<h4>React App develop integrated with Github API.</h4>
-<p>Search by <code>organization/repository</code> and add to your list. Click at button <code>Details</code> to see more information about repository include <code>issues</code> filtered by <code>All</code><code>Open</code><code>Closed</code></p>
 
 <p>🖥️ <b>Demo:</b> <a href="https://moveit-nextjs-nlw4.vercel.app/" target="_blank">Click here</a></p>
 <p>🖥️ <b>Layouts (Figma):</b> <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate" target="_blank">Click here</a></p>
